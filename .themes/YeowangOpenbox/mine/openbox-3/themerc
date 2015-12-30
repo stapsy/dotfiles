@@ -1,0 +1,70 @@
+#openbox themerc edited with obtheme
+border.color: #474040
+border.width: 1
+menu.items.active.bg: vertical flat
+menu.items.active.bg.color: #292424
+menu.items.active.bg.colorTo: #1f1b1b
+menu.items.active.text.color: #635a5a
+menu.items.bg: flat solid
+menu.items.bg.color: #1f1b1b
+menu.items.disabled.text.color: #454545
+menu.items.text.color: #474040
+menu.separator.color: #292424
+menu.title.bg: gradient vertical flat
+menu.title.bg.color: #1f1b1b
+menu.title.bg.colorTo: #1f1b1b
+menu.title.text.color: #FF0000
+menu.title.text.justify: center
+osd.border.width: 0
+osd.hilight.bg: flat
+osd.hilight.bg.color: #2f2f2f
+padding.width: 0
+window.active.border.color: #292424
+#window.active.border.color: #335266
+window.inactive.border.color: #292424
+window.active.button.disabled.bg: Flat
+window.active.button.disabled.bg.color: #151515
+window.active.button.disabled.image.color: #717171
+window.active.button.pressed.bg: parentrelative
+window.active.button.pressed.bg.color: #151515
+window.active.button.pressed.image.color: #1994d1
+window.active.button.toggled.image.color: #717171
+window.active.button.toggled.pressed.image.color: #717171
+window.active.button.unpressed.bg: parentrelative
+window.active.button.unpressed.bg.color: #151515
+window.active.button.unpressed.image.color: #717171
+window.active.client.color: #ffffff
+window.active.grip.bg: parentrelative
+window.active.grip.bg.color: #151515
+window.active.handle.bg: flat solid
+window.active.handle.bg.color: #151515
+window.active.label.bg: parentrelative
+window.active.label.bg.color: #151515
+window.active.label.text.color: #717171
+window.active.title.bg: flat solid
+window.active.title.bg.color: #1f1b1b
+window.active.title.separator.color: #151515
+window.handle.width: 0
+window.inactive.button.disabled.bg: flat
+window.inactive.button.disabled.bg.color: #151515
+window.inactive.button.disabled.bg: Flat
+window.inactive.button.disabled.bg.color: #151515
+window.inactive.button.disabled.bg.border.color: #151515
+window.inactive.button.disabled.image.color: #454545
+window.inactive.button.pressed.bg: flat
+window.inactive.button.pressed.bg.color: #151515
+window.inactive.button.toggled.image.color: #454545
+window.inactive.button.unpressed.bg: flat
+window.inactive.button.unpressed.bg.color: #151515
+window.inactive.button.unpressed.image.color: #454545
+window.inactive.client.color: #e0e0e0
+window.inactive.grip.bg: parentrelative
+window.inactive.grip.bg.color: #151515
+window.inactive.handle.bg: flat solid
+window.inactive.handle.bg.color: #151515
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #454545
+window.inactive.title.bg: flat solid
+window.inactive.title.bg.color: #1f1b1b
+window.inactive.title.separator.color: #151515
+window.label.text.justify: left

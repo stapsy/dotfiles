@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu>
+	<menu id="root-menu" label="OpenBox 3">
+		<item label="IBus conf">
+			<action name="Execute">
+				<execute>ibus-setup</execute>
+			</action>
+		</item>
+		<item label="obconf">
+			<action name="Execute">
+				<execute>obconf</execute>
+			</action>
+		</item>
+		<item label="termite">
+			<action name="Execute">
+				<execute>termite</execute>
+			</action>
+		</item>
+		<item label="tintwizard">
+			<action name="Execute">
+				<execute>tintwizard.py</execute>
+			</action>
+		</item>
+		<separator/>
+		<item label="Reload">
+			<action name="Reconfigure"/>
+		</item>
+		<item label="Restart">
+			<action name="Restart"/>
+		</item>
+		<item label="Quit">
+			<action name="Exit"/>
+		</item>
+	</menu>
+</openbox_menu>
